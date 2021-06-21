@@ -1,2 +1,2 @@
 # kubernetes-repository
-kubernetes-images
+kubernetes-k8s.gcr.io
